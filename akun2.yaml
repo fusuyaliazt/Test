@@ -1,6 +1,6 @@
 proxies:
 
-- name: SG
+- name: SGttttt
   server: sg3.6n6.net
   port: 443
   type: trojan
